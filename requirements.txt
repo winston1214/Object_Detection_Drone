@@ -30,4 +30,4 @@ thop  # FLOPS computation
 pycocotools>=2.0  # COCO mAP
 
 # ui------------------------------------------
-pyqt5 # ui
+PyQt5 # ui
