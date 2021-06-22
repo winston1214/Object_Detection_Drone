@@ -21,13 +21,13 @@ seaborn>=0.11.0
 pandas
 
 # export --------------------------------------
-coremltools==4.0
-onnx>=1.8.0
+#coremltools==4.0
+#onnx>=1.8.0
 scikit-learn==0.19.2  # for coreml quantization
 
 # extras --------------------------------------
-thop  # FLOPS computation
-pycocotools>=2.0  # COCO mAP
+#thop  # FLOPS computation
+#pycocotools>=2.0  # COCO mAP
 
 # ui------------------------------------------
 PyQt5 # ui
