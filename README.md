@@ -34,6 +34,15 @@ $ pip install -r requirements.txt
 $ python3 ui2.py
 ```
 
+### More Details
+
+**Setting of input or output video location**
+
+ Change <a href='https://github.com/winston1214/Object_Detection_Drone/blob/be4c2cf414967539286af7a284015500cf57946f/ui2.py#L63'>this part</a>
+  - Input Video location : Change 'source' option :   ex. data/test.MP4 -> sample_dir/Sample.MP4
+  - Output Video location : Change 'project' option :   ex. ui_test/ -> save_dir/
+
+If you want to adjust the other options, you should refer <a href='https://github.com/winston1214/Object_Detection_Drone/blob/be4c2cf414967539286af7a284015500cf57946f/detect.py#L154'>here</a>
 
 ### Output
 
