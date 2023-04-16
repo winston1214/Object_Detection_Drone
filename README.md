@@ -1,4 +1,8 @@
-## Object Detection in Drone Dataset (contain UI)
+## Object Detection in Drone Dataset (Official Code in AI-Hub)
+
+<p align="center">
+  We released the dataset and utilization guide video on <a href='https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100'>AI-Hub</a>.
+</p>
 
 🎁 <a href='https://github.com/AICT-CVAI/Object-Detection-Drone'>Full Version(Yolov5, mmdetection)</a>
 
